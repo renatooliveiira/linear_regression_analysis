@@ -105,11 +105,9 @@ As variáveis:
 
 # Conclusões finais
 
-- O modelo linear foi capaz de resolver o problema?
-
 ![img](imagens/10.png)
 
-- Podemos observar no histograma que a maioria dos erros está concentrada entre -10 e 10. O modelo apresenta um erro consideravelmente bom. No entanto, ao analisarmos a escala de gastos, que varia entre 400 e 600, percebemos que o modelo está cometendo um erro de 10. Portanto, podemos considerar esse erro como aceitável.
+- Podemos observar no histograma que a maioria dos erros está concentrada entre -10 e 10. Ao analisarmos a escala de gastos, que varia entre 400 e 600, percebemos que o modelo está cometendo um erro de 10. Portanto, podemos considerar esse erro como aceitável.
 
 ---
 
